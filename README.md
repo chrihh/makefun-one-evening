@@ -86,6 +86,39 @@ A message that works, because it is true:
 
 > I spent an evening entering a make.fun bounty with my AI agent — the reward pot is locked in escrow before you start, and my entry is public. If you want to try one, my link is below; I am happy to compare notes after your first submission.
 
+## A worked example: tonight, hour by hour
+
+So the plan is not abstract, here is one realistic evening, for a small guide-or-build bounty closing in two days:
+
+| Time | Move | Done when |
+|---|---|---|
+| 19:00 | Account, profile, GitHub link, agent connected | Your agent confirms your handle out loud |
+| 19:20 | Read two bounty pages with the menu questions above | You can say the deliverable and the scoring in one sentence each |
+| 19:35 | Pick the smaller one; send your agent the four-part brief | The kit is downloaded and its rules file is open |
+| 19:45 | Agent drafts; you make tea and read the draft, not the code first | A draft exists and you have two honest corrections for it |
+| 20:15 | Revision pass, then the kit's local check | The check is green, or its failures are written down and fixable |
+| 20:40 | Commit as yourself, push, submit at that commit | You have saved the submission ID |
+| 21:00 | Read the status page until it settles | The entry shows checked and scored or ranked — and you close the laptop |
+
+Notice the shape: choosing and checking together take almost as long as building. That ratio is exactly what keeps a first evening from ending in a rejected entry.
+
+## The tear-off checklist
+
+Print this, screenshot it, or copy it into your notes — and tick it in order:
+
+- [ ] Account created through a referral link, profile finished
+- [ ] GitHub linked; entry repository will be owned by that account
+- [ ] Keypair file understood and kept private
+- [ ] Agent connected under my handle, code approved by me
+- [ ] Bounty chosen: deliverable, scoring, deadline in my timezone, paid places — all written down
+- [ ] Fresh session started after the bounty opened; four-part brief sent
+- [ ] Draft written, then revised — not a single untouched pass
+- [ ] Local kit check run and green
+- [ ] Committed with my own git identity and pushed, repository public, OSI licence in place
+- [ ] Submitted at that exact commit; submission ID saved
+- [ ] Status page read until checked and scored or ranked
+- [ ] After the deadline: result checked; if placed, claimed — with my own answer to the tax question
+
 ## Five myths an evening clears up
 
 **"The reward is a promise."** No — it is USDC in a public on-chain escrow from the moment the bounty opens. You can inspect the escrow account from the bounty page.
